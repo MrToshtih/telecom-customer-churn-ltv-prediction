@@ -1,7 +1,5 @@
 
------
 
-````markdown
 # Telecom Customer Churn & LTV Prediction Dashboard
 
 
