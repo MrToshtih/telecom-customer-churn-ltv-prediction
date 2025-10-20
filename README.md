@@ -9,10 +9,10 @@ A machine learning-powered web app built with Streamlit to predict customer chur
 
 ## 🚀 Features
 
-* **Churn Prediction:** Uses a classification model to predict the probability (%) that a customer will churn.
-* **Lifetime Value (LTV) Prediction:** Uses a regression model to estimate the total revenue a customer will generate.
-* **Customer Segmentation:** Uses a clustering model to assign customers to a predefined persona (e.g., "Loyal Champion", "High-Value, At-Risk").
-* **Interactive Interface:** An easy-to-use form to input customer details and get real-time predictions.
+* Churn Prediction: Uses a classification model to predict the probability (%) that a customer will churn.
+* Lifetime Value (LTV) Prediction: Uses a regression model to estimate the total revenue a customer will generate.
+* Customer Segmentation: Uses a clustering model to assign customers to a predefined persona (e.g., "Loyal Champion", "High-Value, At-Risk").
+* Interactive Interface: An easy-to-use form to input customer details and get real-time predictions.
 
 ## 🛠️ How to Run
 
